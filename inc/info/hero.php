@@ -378,7 +378,7 @@
                         <button class=""
                             style="padding:8px 15px; background-color:#e74c3c; font-size:16px;
     color:#ffffff; border-radius:20px; border:none;"
-                            onclick="window.open('./index3.php', '_blank')">
+                            onclick="window.open('./secret-deals.php', '_blank')">
                             Explore our secrets
                         </button>
 

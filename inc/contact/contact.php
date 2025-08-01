@@ -51,26 +51,14 @@
                                 </div>
                                 <div class="col-sm-6">
                                     <div class="input_group">
-                                        <select class="input" name="subject">
-                                            <option value="">Select</option>
-                                            <option value="Cruise">Cruise</option>
-                                            <option value="Flights">Flights</option>
-                                            <option value="Packages">Packages</option>
-                                            <option value="Others">Others</option>
-                                        </select>
-                                        <label for="">query for</label>
-                                        <span class="highlight"></span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-sm-6">
-                                    <div class="input_group">
                                         <input class="input" type="text" name="contact_number" value="" required="" placeholder="">
                                         <label for="">your contact number</label>
                                         <span class="highlight"></span>
                                     </div>
                                 </div>
+                            </div>
+                            <div class="row">
+                            
                                 <div class="col-sm-6">
                                     <div class="input_group">
                                         <input class="input" type="text" name="email" value="" required="" placeholder="">

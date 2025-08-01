@@ -127,7 +127,7 @@
 
 
                                     <li>
-                                        <a href="index3.php">
+                                        <a href="secret-deals.php">
                                             Secret Deals
                                         </a>
                                     </li>

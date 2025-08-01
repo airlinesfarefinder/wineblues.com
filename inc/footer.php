@@ -316,7 +316,7 @@
                     <li><a href="contact.php">Contact Us</a></li>
                     <li><a href="privacy-policy.php">Privacy Policy</a></li>
                     <li><a href="terms-conditions.php">Terms & Conditions</a></li>
-                    <li><a href="baggage-policy.php">Baggage Policy</a></li>
+           
                     <li><a href="cookie-policy.php">Cookie Policy</a></li>
                 </ul>
             </div>
@@ -327,12 +327,12 @@
                 <div class="payment-logos">
                     <div class="payment-logo" style="background-image:url('assets/img/cards/amex.png')"></div>
                     <div class="payment-logo" style="background-image:url('assets/img/cards/discover.png')"></div>
-                    <div class="payment-logo" style="background-image:url('assets/img/cards/master.png')"></div>
+             
                     <div class="payment-logo" style="background-image:url('assets/img/cards/master_v1.png')"></div>
                     <div class="payment-logo" style="background-image:url('assets/img/cards/paypal.png')"></div>
                     <div class="payment-logo" style="background-image:url('assets/img/cards/visa.png')"></div>
-                    <div class="payment-logo" style="background-image:url('assets/img/certification/cruiselines.png')"></div>
-                    <div class="payment-logo" style="background-image:url('assets/img/certification/godaddy.png')"></div>
+                    <!-- <div class="payment-logo" style="background-image:url('assets/img/certification/cruiselines.png')"></div>
+                    <div class="payment-logo" style="background-image:url('assets/img/certification/godaddy.png')"></div> -->
                 </div>
             </div>
         </div>
