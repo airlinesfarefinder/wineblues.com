@@ -1,0 +1,29 @@
+<div id="win_discover">
+    <div class="container">
+        <div class="row">
+            <div class="title_wrap">
+                <h1>Discover the Best Wine Deals Online in Australia</h1>
+            </div>
+        </div>
+
+        <div class="row">
+
+          <div class="col-sm-3">
+            <div class="item">
+                  <div class="img_wrapp">
+                    <div class="img">
+
+                    </div>
+                  </div>
+
+                  <div class="item_info">
+                    <p></p>
+                  </div>
+
+            </div>
+          </div>
+
+        </div>
+
+    </div>
+</div>
