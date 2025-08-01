@@ -96,7 +96,7 @@
 
   <section class="email-section">
     <div>
-    <h2>Join our family of wine lovers...</h2>
+    <h2  style="font-size:20px; font-weight: bold; color:#9e2064; width:100%; text-align:center" >Join our family of wine lovers...</h2>
     <p>
       Can’t be bothered browsing? No worries – just chuck your email address in and we'll send you info on the really, really good stuff. Promise.
     </p>

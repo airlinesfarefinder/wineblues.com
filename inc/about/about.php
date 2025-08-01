@@ -11,15 +11,15 @@
                         </div>
                         <div class="col-sm-6">
                             <div class="wrapper">
-                                <div class="heading">
+                                <div class="heading"style="text-align:justify;"  >
                                     <h3>Welcome to Wine Blues</h3>
-                                    <p>We're here to make your travel planning effortless, affordable, and exceptional. Our goal is simple: to fuel your journeys with the best flight deals and a booking experience that’s smooth from start to finish.</p>
+                                    <p>We’re here to make discovering great wine effortless, affordable, and truly enjoyable. Our goal is simple: to bring you handcrafted wines from passionate winemakers—without the retail markup or hassle.</p>
                                 </div>
                                 <br>
-                                <span class="quote">We get it—travel planning can be overwhelming. That’s why we focus on taking the stress out of the process with unbeatable fares, dependable customer support, and a booking journey that’s as easy as your getaway should feel.</span>
+                                <span class="quote">We get it—wine buying can be confusing. That’s why we focus on cutting through the noise with honest pricing, personalized picks, and a wine experience that’s as smooth as the pour in your glass.</span>
                             </div>
-
                         </div>
+
                     </div>
                 </div>
             </div>
@@ -31,11 +31,12 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-10 col-sm-offset-1">
-                <div class="head">
-                    <h3>What sets us apart? A relentless focus on delivering true value.</h3>
-                    <p>Our user-friendly platform makes it easy to compare fares, discover the best routes, and book your flights securely in just a few clicks. We're committed to finding you the lowest prices—without ever sacrificing service or quality.</p>
-                    <p>Your satisfaction is at the core of everything we do. Our dedicated support team is available around the clock to assist with bookings, itinerary changes, or any travel-related queries. From takeoff to touchdown (and everything in between), we’re here to ensure your journey is smooth and stress-free.</p>
+                <div class="head" style="text-align:justify;" >
+                    <h3>What sets us apart? A relentless focus on delivering true wine value.</h3>
+                    <p>Our easy-to-use platform helps you explore bold reds, crisp whites, and everything in between—sourced directly from top independent winemakers. You get exceptional wines at honest prices, without the middleman markup.</p>
+                    <p>Your satisfaction is at the core of everything we do. Whether you need help choosing a bottle, tracking an order, or understanding a wine’s story, our support team is here for you. From first sip to last drop, we’re committed to making your wine journey smooth and satisfying.</p>
                 </div>
+
 
             </div>
         </div>

@@ -63,8 +63,8 @@
     <p>
         "Naturally, wineries aren’t keen to see their premium bottles publicly discounted—so that’s where the secrecy comes in. It allows us to share incredible wines with you, without stepping on any toes."
     </p>
-    <p>
-        "Bottom line: no secrets = no super deals. But if you’re ever unsure or want to know more, just reach out—we’re always happy to chat."
+    <p  style="font-size:20px; font-weight: bold; color:#9e2064; width:100%; text-align:center" >
+         No Secrets = No Super Deals. But if you’re ever unsure or want to know more, just reach out—we’re always happy to chat.
     </p>
 </div>
 

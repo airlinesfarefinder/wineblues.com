@@ -43,7 +43,7 @@
 
 <div class="naked-section">
   <div class="container">
-    <h2><strong>Feels good to be Naked</strong></h2>
+    <h2><strong>Unfiltered Wine. Unfiltered Joy.</strong></h2>
     <div class="row">
       <div class="col-sm-4 naked-feature">
         <img src="./images/wine/wine.png" alt="30% Off">

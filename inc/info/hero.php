@@ -17,17 +17,19 @@
         margin-top: 50px;
         border-radius: 30px;
         min-height: 550px;
-    
+
     }
 
     .hero-section {
-  transition: transform 0.5s ease-in-out;
-}
+        transition: transform 0.5s ease-in-out;
+    }
 
-.hero-section:hover {
-  transform: scale(1.02); /* Zooms out to 97% of original size */
-}
-/* 
+    .hero-section:hover {
+        transform: scale(1.02);
+        /* Zooms out to 97% of original size */
+    }
+
+    /* 
     .hero-section::before {
         content: '';
         position: absolute;
@@ -270,7 +272,7 @@
         }
 
         .hero-content {
-       
+
             text-align: center;
             /* max-width: 90%; */
         }
@@ -361,42 +363,26 @@
                             style=" display:inline-block; cursor:pointer;">
 
                             <button
-                            style="padding:8px 15px; background-color:#e74c3c; font-size:16px;
-                            color:#ffffff; border-radius:20px; border:none; cursor:pointer "
-                            
-                            >
+                                style="padding:8px 15px; background-color:#e74c3c; font-size:16px;
+                            color:#ffffff; border-radius:20px; border:none; cursor:pointer ">
 
 
 
                                 Call Us </button>
                         </a>
 
-                        
-                            <button class=""
+
+
+
+
+                        <button class=""
                             style="padding:8px 15px; background-color:#e74c3c; font-size:16px;
-                            color:#ffffff; border-radius:20px; border:none; "
-                      onclick="window.location.href='./index3.php'"      
-                            >
+    color:#ffffff; border-radius:20px; border:none;"
+                            onclick="window.open('./index3.php', '_blank')">
+                            Explore our secrets
+                        </button>
 
 
-                               Explore our secrets </button>
-               
-
-
-                        <!-- <a href="tel:(888) 257-3866">
-                            <span
-                                style="color: #aaae8d; font-family: 'cofo-gothic-variable', sans-serif; font-variation-settings: 'wght' 800; font-size:18px;
-                     text-decoration:underline;
-                     cursor:pointer;
-                     display:inline-block; 
-                     "> Explore our secrets</span>
-                            <span
-
-                                style="
-                       font-size:20px;
-                       color: #aaae8d; 
-                       "> → </span>
-                        </a> -->
 
                     </div>
 
